@@ -74,7 +74,7 @@ interface Bird {
   name: string;
 }
 
-// Declaration merging
+// TODO: Declaration merging
 
 interface Bird {
   age?: number;
